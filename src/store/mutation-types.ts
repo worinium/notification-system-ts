@@ -1,0 +1,9 @@
+export const SET_NOTIFICATIONS = "set_notifications";
+export const SET_LOADING = "set_loading";
+export const UNSET_LOADING = "unset_loading";
+export const TOGGLE_READ_STATUS = "toggle_read_status";
+export const TOGGLE_IMPORTANT_STATUS = "toggle_important_status";
+export const DELETE_NOTIFICATION = "delete_notification";
+export const SET_FILTER = "set_filter";
+export const SET_PAGE = "set_page";
+export const SET_SEARCH_KEYWORD = "set_search";
